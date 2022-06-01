@@ -51,9 +51,9 @@ THEN I find a concise, descriptive title
 
 # Deployment ScreenShot + URL
 
-    - 
+    https://crackerbox123.github.io/Challenge_Horiseon_Refactor/
 
-    ![Depolyed Webage on Github](/Develop/assets/images/deployed_screenshot.jpg)
+    ![Depolyed Webpage](/Develop/assets/images/deployed_screenshot.jpg).
 
 
 
