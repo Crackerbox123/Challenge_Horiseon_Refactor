@@ -53,7 +53,7 @@ THEN I find a concise, descriptive title
 
     https://crackerbox123.github.io/Challenge_Horiseon_Refactor/
 
-    ![Depolyed Webpage](/Develop/assets/images/deployed_screenshot.jpg).
+    ![](/Develop/deployed_screenshot.jpg)
 
 
 
