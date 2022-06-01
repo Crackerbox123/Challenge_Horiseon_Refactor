@@ -8,7 +8,9 @@
 body {
     background-color: #d9dcd6;
 }
+
 /* Header Styles*/
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,11 +52,9 @@ a {
     text-decoration: none;
 }
 
-/* Header Styles End */
+/* Header + Nav Styles End */
 
-p {
-    font-size: 16px;
-}
+
 /* Hero Img Styling */
 .hero {
 
@@ -82,13 +82,33 @@ p {
     margin-left: 25px;
 }
 
+/* Section Styles */
 section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* Benefit styles */
+
+section div {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+section img {
+    max-height: 200px;
+}
+
+section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* article styles */
 
 article {
     margin-right: 20px;
@@ -116,27 +136,6 @@ article img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-
-/* Section styles */
-
-section div {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-section img {
-    max-height: 200px;
-}
-
-section h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 

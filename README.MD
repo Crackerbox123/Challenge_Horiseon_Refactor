@@ -43,11 +43,24 @@ THEN I find a concise, descriptive title
 
     - Commented and organized selectors
 
-
-
 # GitHub Repository URL
 
-    - https://crackerbox123.github.io/Challenge_Horiseon_Refactor/
+
+    https://github.com/Crackerbox123/Challenge_Horiseon_Refactor
+
+
+# Deployment ScreenShot + URL
+
+    - 
+
+    ![Depolyed Webage on Github](/Develop/assets/images/deployed_screenshot.jpg)
+
+
+
+
+
+
+
 
 
     
