@@ -53,7 +53,9 @@ THEN I find a concise, descriptive title
 
     https://crackerbox123.github.io/Challenge_Horiseon_Refactor/
 
-    ![deployed_img](https://user-images.githubusercontent.com/61638208/171347486-4dd47249-faa9-46cf-a89d-daafcfc32dd4.jpg)
+
+![deployed_img](https://user-images.githubusercontent.com/61638208/171347916-69c037cc-a706-4753-8f86-85bebd248a49.jpg)
+
 
 
 
