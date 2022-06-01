@@ -23,7 +23,7 @@ THEN I find a concise, descriptive title
 
     - Changed div containing navigation links to the <nav> semantic element
 
-    - changed the <div class="footer"> to the <footer> semantic element
+    - changed <div class="footer"> to the <footer> semantic element
 
     - Replaced div with <section> semantic element
 
@@ -39,13 +39,15 @@ THEN I find a concise, descriptive title
 
     - Updated selectors to the new <header>, <nav>, <footer>, <section>, and <article> elements changed in the HTML
 
-    - Greatly Reduced amount of CSS by reworking the Class + IDs in HTML, and deleted redundant code
+    - Greatly Reduced amount of CSS by reworking the Class + IDs in HTML
 
     - Commented and organized selectors
 
 
 
-# ScreenShot
+# GitHub Repository URL
+
+    - https://crackerbox123.github.io/Challenge_Horiseon_Refactor/
 
 
     
